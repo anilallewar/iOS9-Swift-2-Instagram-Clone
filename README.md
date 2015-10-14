@@ -20,8 +20,8 @@ Swift 2 and Parse BaaS application that allow users to
 3. Open the `ParseStarterProject/AppDelegate.swift` file and make changes for Parse application ID and client key.
 ```
         //Uncomment and fill in with your Parse credentials:
-        Parse.setApplicationId("AQ5XiDRS2iz3zZnz30j3JkuDyL6L0kpRcNoRRPGU",
-            clientKey: "rPYnyoNPJ4iu8nfoPFTBcPdyEC4Rx8W6lxyPfcVs")
+        Parse.setApplicationId("<<Your_Application_Id>>",
+            clientKey: "<<Your_client_key>>")
 ```
 4. Build and run the application on the XCode simulator to signup, create new user, login and enjoy the app!
 
