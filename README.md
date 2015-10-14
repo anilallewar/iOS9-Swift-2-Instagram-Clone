@@ -30,25 +30,30 @@ Swift 2 and Parse BaaS application that allow users to
 <img src="./Screenshots/ScreenShot_2.png" alt="screenshot2" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_3.png" alt="screenshot3" width="200" />
 <br/>
+---
 <br/>
 <img src="./Screenshots/ScreenShot_4.png" alt="screenshot4" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_5.png" alt="screenshot5" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_6.png" alt="screenshot6" width="200" />
 <br/>
+---
 <br/>
 <img src="./Screenshots/ScreenShot_7.png" alt="screenshot7" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_8.png" alt="screenshot8" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_9.png" alt="screenshot9" width="200" />
 <br/>
+---
 <br/>
 <img src="./Screenshots/ScreenShot_10.png" alt="screenshot10" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_11.png" alt="screenshot11" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_12.png" alt="screenshot12" width="200" />
 <br/>
+---
 <br/>
 <img src="./Screenshots/ScreenShot_13.png" alt="screenshot13" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_14.png" alt="screenshot14" width="200" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Screenshots/ScreenShot_15.png" alt="screenshot15" width="200" />
 <br/>
+---
 <br/>
 <img src="./Screenshots/ScreenShot_16.png" alt="screenshot16" width="200" />
